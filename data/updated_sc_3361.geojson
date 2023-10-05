@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "updated_sc_3361",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3361" } },
+"features": [
+
+]
+}
